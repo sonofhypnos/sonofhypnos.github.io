@@ -1,3 +1,8 @@
+---
+layout: post
+title: Will the S&P fall to index X by date Y?
+---
+
 So I occasionally try to make predictions on the [forecasting Site Almanis](https://app.dysruptlabs.com) and some of their questions that reocurr every month are of the format: By X (DATE), will the S&P 500 fall below Index? (give concrete instead of general example?)
 
 
