@@ -182,7 +182,7 @@ sns.lineplot(x=sp.index[-500:], y = sp.values[-500:])
 
 
     
-![png](output_8_1.png)
+![_config.yml]({{ site.baseurl }}/images/output_8_1.png)
     
 
 
@@ -214,7 +214,7 @@ sp_shift["1"].rolling(window=500).mean().plot()
 
 
     
-![png](output_11_1.png)
+![_config.yml]({{ site.baseurl }}/images/output_11_1.png)
     
 
 
@@ -302,6 +302,6 @@ plt.show()
 
 
     
-![png](output_17_1.png)
+![_config.yml]({{ site.baseurl }}/images/output_17_1.png)
     
 
